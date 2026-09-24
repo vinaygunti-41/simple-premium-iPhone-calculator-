@@ -77,7 +77,6 @@
 
 <p>
   <b>Gunti Vinay</b><br/>
-  Aspiring Data Analyst • Power BI • SQL • Python • Tableau
 </p>
 
 <p>
