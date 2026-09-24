@@ -4,7 +4,7 @@
 
   <p>
     A sleek, modern, and responsive <b>iPhone-style Calculator</b> built using
-    <b>HTML, CSS, and JavaScript</b>. Designed with Apple's premium minimalist UI,
+     Designed with Apple's premium minimalist UI,
     smooth button interactions, glassmorphism effects, and a clean user experience.
   </p>
 
